@@ -1,0 +1,6 @@
+interface:
+  display_name: "合规管理体系建设"
+  short_description: "以现状诊断和体系设计基准为基础，逐项起草合规体系建设成果，可衔接法律尽调结果"
+  default_prompt: "使用 $compliance-system-building 起草指定的合规体系建设成果，并遵守工作底稿中的体系设计基准。"
+policy:
+  allow_implicit_invocation: true
